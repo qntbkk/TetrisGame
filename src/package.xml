@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<package xmlns="http://www.mendix.com/package/1.0/">
-    <clientModule name="CarRacer" version="1.0.0" xmlns="http://www.mendix.com/clientModule/1.0/">
+<?xml version="2.0" encoding="utf-8" ?>
+<package xmlns="http://www.mendix.com/package/2.0/">
+    <clientModule name="CarRacer" version="2.0.0" xmlns="http://www.mendix.com/clientModule/2.0/">
         <widgetFiles>
             <widgetFile path="CarRacer/CarRacer.xml" />
         </widgetFiles>
