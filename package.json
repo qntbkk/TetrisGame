@@ -1,9 +1,9 @@
 {
-  "name": "CarRacer",
+  "name": "DojoWidgetBoilerplate",
   "version": "1.0.0",
   "description": "Widget to training mendix widget",
   "license": "Apache 2",
-  "author": "DUC BUI",
+  "author": "Tony Tran",
   "private": true,
   "dependencies": {},
   "devDependencies": {
