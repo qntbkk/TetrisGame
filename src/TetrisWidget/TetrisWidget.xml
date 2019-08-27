@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<widget id="DojoWidgetBoilerplate.widget.DojoWidgetBoilerplate" needsEntityContext="false" 
+<widget id="TetrisWidget.widget.TetrisWidget" needsEntityContext="false" 
     xmlns="http://www.mendix.com/widget/1.0/">
-    <name>DojoWidgetBoilerplate</name>
-    <description>DojoWidgetBoilerplate</description>
+    <name>TetrisWidget</name>
+    <description>Tetris Widget</description>
     <icon />
     <properties>
         <property key="messageString" type="string" required="true" defaultValue="">
